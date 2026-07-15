@@ -1,0 +1,12 @@
+{
+  "name": "battlezone-multiplayer",
+  "version": "1.0.0",
+  "description": "LAN multiplayer for Battlezone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.0"
+  }
+}
