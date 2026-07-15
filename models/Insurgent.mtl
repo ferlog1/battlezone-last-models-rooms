@@ -1,0 +1,32 @@
+# Insurgent Urban MTL with textures
+
+newmtl UrbanTerrorist_Access_Mat
+Kd 1 1 1
+Ka 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+map_Kd Accessories_BaseColor.png
+
+newmtl UrbanTerrorist_Skin_Mat
+Kd 1 1 1
+Ka 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+map_Kd Skin_BaseColor.png
+
+newmtl UrbanTerrorist_Cloth_Mat
+Kd 1 1 1
+Ka 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+map_Kd Clothes_BaseColor.png
+
+newmtl UrbanTerrorist_Lens_Mat
+Kd 0.05 0.05 0.1
+Ka 0 0 0
+Ke 0 0 0
+d 0.7
+illum 1
